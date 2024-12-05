@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Rotovak nice to meet you!👋
+
+I am a biomedical engineer, interested in data science applied to medical and biological fields.
 
 <!--
 **Rotovak/Rotovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
